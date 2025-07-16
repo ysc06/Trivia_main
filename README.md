@@ -20,5 +20,5 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-([https://www.youtube.com/watch?v=GA92eKlYio4])
+(https://youtube.com/shorts/Ylrq4UOVoG0)
 
